@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "740942043262",
+    "firebase_url": "https://hacknasa-946e5.firebaseio.com",
+    "project_id": "hacknasa-946e5",
+    "storage_bucket": "hacknasa-946e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740942043262:android:1cd66395f6e5d5b1",
+        "android_client_info": {
+          "package_name": "com.example.a1555mx7.safehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740942043262-d3136aj3205b557i4ln4885rghmgth13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlzb_YRcE-FMlpaCvpHGucYIL66gUy5M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
